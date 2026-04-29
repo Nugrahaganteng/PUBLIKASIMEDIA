@@ -26,7 +26,7 @@ export default function Footer() {
             {/* Logo — inverted white on dark bg */}
             <a href="/" aria-label="Publikasi Media — Home" className="inline-flex mb-6 group">
               <Image
-                src="/publikasimedialogo.png"
+                src="/konten-digital.png"
                 alt={siteData.company.name}
                 width={200}
                 height={52}
