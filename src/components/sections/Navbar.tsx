@@ -110,7 +110,7 @@ export default function Navbar() {
               <a href="/" className="px-3 py-2 text-[15px] font-semibold text-slate-700 hover:text-blue-600">
                 Home
               </a>
-              <a href="/tentang" className="px-3 py-2 text-[15px] font-semibold text-blue-600">
+              <a href="/tentang" className="px-3 py-2 text-[15px] font-semibold text-slate-700 hover:text-blue-600">
                 Tentang
               </a>
               

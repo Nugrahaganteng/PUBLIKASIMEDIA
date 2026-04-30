@@ -19,12 +19,14 @@ export const siteData = {
   ],
 
   // Dropdown items for "Layanan" nav
-  navLayanan: [
-    { label: 'Distribusi Press Release', href: '#layanan' },
-    { label: 'Penulisan Press Release', href: '#layanan' },
-    { label: 'Layanan Iklan Advertorial', href: '#layanan' },
-    { label: 'Pasang Backlink Media', href: '#layanan' },
-  ],
+ navLayanan: [
+  { label: 'Jasa Press Release', href: '#layanan' },
+  { label: 'Jasa Backlink Media Nasional', href: '#layanan' },
+  { label: 'Jasa Press Conference / Konferensi Pers', href: '#layanan' },
+  { label: 'Jasa Penulisan Artikel', href: '#layanan' },
+  { label: 'Jasa Penulisan Script Video / Televisi', href: '#layanan' },
+  { label: 'Jasa Pelatihan Konten Kreator', href: '#layanan' },
+],
 
   // Dropdown items for "Perusahaan" nav
   navPerusahaan: [
